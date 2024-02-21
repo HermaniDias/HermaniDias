@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <h1 align=center>
   Seja bem vindos!
 </h1>
-<t>
+<t align=center>
   Este perfil refere-se aos meus projetos feitos no curso IWTraining
 </t>

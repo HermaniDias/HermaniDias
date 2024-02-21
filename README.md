@@ -24,8 +24,15 @@
 	REDES SOCIAIS
 </h1>
 
-![FACEBOOK](https://img.shields.io/badge/facebook-002?style=for-the-badge&logo=html5)
+![FACEBOOK](https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=html5)
 ![INSTAGRAM](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=html5)
 ![TWITTER](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=html5)
 ![LINKEDIN](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=html5)
 ![YOUTUBE](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=html5)
+
+<h1>
+	CONTATOS
+</h1>
+
+![WHATSAPP](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=html5)
+![GMAIL](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=html5)

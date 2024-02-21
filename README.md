@@ -1,22 +1,6 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**HDL130171/HDL130171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align=center>
-  Seja bem vindos!
+<h1 align="center">
+  Sejam bem vindos!
 </h1>
-<t align=center>
-  Este perfil refere-se aos meus projetos feitos no curso IWTraining
-</t>
+<p align="center">
+  Esse perfil corresponde a minha cona de estudos de programação.
+</p>

@@ -24,7 +24,7 @@
 	REDES SOCIAIS
 </h1>
 
-![FACEBOOK](https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=html5)
+![FACEBOOK](https://img.shields.io/badge/facebook-002?style=for-the-badge&logo=html5)
 ![INSTAGRAM](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=html5)
 ![TWITTER](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=html5)
 ![LINKEDIN](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=html5)

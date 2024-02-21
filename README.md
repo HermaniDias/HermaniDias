@@ -10,3 +10,5 @@
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Hermani+Dias;Sou+aluno+do+curso+de+Fullstack+na+IWtraining!&center=true&width=780&height=45">
   </a>
 </p>
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)

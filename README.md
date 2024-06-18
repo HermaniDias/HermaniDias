@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HDL130171">
+  <a href="https://github.com/HermaniDias">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Hermani+Dias;Sou+aluno+do+curso+de+Fullstack+na+IWtraining!&center=true&width=780&height=45">
   </a>
 </p>
